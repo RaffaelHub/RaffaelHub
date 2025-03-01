@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Rafael!
 
-Sou estudante de **Tecnologia da Informação (TI)** e **Ciência da Computação**, apaixonado por **programação em C** e **astrofísica**. Estou sempre buscando aprender mais sobre desenvolvimento, algoritmos e computação científica.
+Sou estudante de **Tecnologia da Informação (TI)** **Ciência da Computação**, apaixonado por **programação em C** e **astrofísica**. Estou sempre buscando aprender mais sobre desenvolvimento, algoritmos e computação científica.
 
 💻 Atualmente, estou aprimorando minhas habilidades em **C** e explorando novas tecnologias.  
 🚀 Meu objetivo é unir programação e ciência para criar soluções inovadoras.  
