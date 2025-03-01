@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, eu sou Rafael!
 
-<!--
-**RaffaelHub/RaffaelHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Tecnologia da Informação (TI)** e **Ciência da Computação**, apaixonado por **programação em C** e **astrofísica**. Estou sempre buscando aprender mais sobre desenvolvimento, algoritmos e computação científica.
 
-Here are some ideas to get you started:
+💻 Atualmente, estou aprimorando minhas habilidades em **C** e explorando novas tecnologias.  
+🚀 Meu objetivo é unir programação e ciência para criar soluções inovadoras.  
+🌌 Fascinado pelo universo, estudo **astrofísica** sempre que posso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fique à vontade para explorar meus projetos e trocar conhecimento comigo!
+
+📧 Contato: [raffiscoffe@gmail.com]  
+
+
+![RafaelHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelHub&show_icons=true&theme=dark)
+
